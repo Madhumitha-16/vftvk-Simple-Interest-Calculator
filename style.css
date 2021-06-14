@@ -1,12 +1,10 @@
 body {background-color:black;font-family:arial;color=white}
-h1{color:grey;font-family:verdana}
+h1{color:grey;font-family:verdana;font-size:50px;text-align:center}
 .maindiv{
     background-color:white;
     color:black;
-    width:300px;
+    width:1100px;
+    margin:80px;
     padding:20px;
     border-radius:25px;
-    align:center;
 }
-
-
